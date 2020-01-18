@@ -1,0 +1,7 @@
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\bin\Debug\purchasecalculator1.exe.config
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\bin\Debug\purchasecalculator1.exe
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\bin\Debug\purchasecalculator1.pdb
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\obj\Debug\purchasecalculator1.csprojAssemblyReference.cache
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\obj\Debug\purchasecalculator1.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\obj\Debug\purchasecalculator1.exe
+C:\Users\jacob\source\repos\purchasecalculator1\purchasecalculator1\obj\Debug\purchasecalculator1.pdb
